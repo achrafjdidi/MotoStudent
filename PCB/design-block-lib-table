@@ -1,0 +1,6 @@
+(design_block_lib_table
+  (version 7)
+  (lib (name "254")(type "KiCad")(uri "${KIPRJMOD}/Library/254")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library")(options "")(descr ""))
+  (lib (name "LM2596")(type "KiCad")(uri "${KIPRJMOD}/Library/LM2596")(options "")(descr ""))
+)
